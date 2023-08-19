@@ -1,5 +1,0 @@
-test 
-Lets grow togrther guys !
-commit 1
-commit 2
-commit 3
